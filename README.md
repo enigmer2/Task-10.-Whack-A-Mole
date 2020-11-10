@@ -7,3 +7,5 @@
 * Код: https://github.com/wesbos/JavaScript30/tree/master/30%20-%20Whack%20A%20Mole (50 lines js-code)
 * Demo: https://js3030.github.io/
 * Время выполнения: 8 часов
+
+* моя работа https://enigmer2.github.io/Task-10.-Whack-A-Mole/
